@@ -1,0 +1,9 @@
+{
+	"name": "Cpastone-ADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b18521e5-4ba7-489f-bf6d-22f4a57a1624",
+		"tenantId": "5ecf4676-dbb9-4b62-a46d-aa21637390a6"
+	}
+}
